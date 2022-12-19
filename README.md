@@ -23,7 +23,7 @@ RFM analysis is a marketing technique used to quantitatively rank and group cust
 | Frequency | 1.081075 |
 | Monetary | 166.592492 |
 
-## Customer Segmentation base on RFM Analysis
+## Customer Segmentation Base on RFM Analysis
 
 Based on RFM analysis, we have 5 cluster of our customers, such as:
 
