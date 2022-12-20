@@ -28,7 +28,7 @@ RFM analysis is a marketing technique used to quantitatively rank and group cust
 Based on RFM analysis, we have 5 cluster of our customers, such as:
 
 * **Cluster 0**: New Customers and low spenders
-* **Cluster 1**: The curn customers (it's been more than a year (on avg) since the previous purchase)
+* **Cluster 1**: The Churn Customers (it's been more than a year (on avg) since the previous purchase)
 * **Cluster 2**: The Big Spender
 * **Cluster 3**: The Loyal Customers
 * **Cluster 4**: The Loyal Customers & Slightly Higher Spenders
